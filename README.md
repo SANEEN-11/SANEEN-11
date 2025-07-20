@@ -20,8 +20,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35">
   About Me
@@ -32,8 +30,6 @@
   I'm a B.Tech student specializing in Computer Science and Business Systems, with a strong passion for solving real-world problems using machine learning, full-stack development, and data analytics.<br>
   My academic journey is focused on exploring the frontiers of AI, building impactful applications, and continuously learning to bridge technology with meaningful solutions.
 </p>
-
----
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -76,15 +72,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
----
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANEEN-11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 <h2 align="center">🎯 Featured Projects</h2>
 
@@ -92,11 +84,15 @@
   <b>🎧 <a href="https://github.com/SANEEN-11/UDA-Gradient-Reversal-Layer">Voice4You – Voice Assistant for Elderly, Blind & Alzheimer's Care</a></b><br>
   <i>An intelligent personal companion that supports voice-based interaction, real-time object detection, and memory assistance — empowering users with greater independence.</i><br>
   <a href="https://github.com/SANEEN-11/UDA-Gradient-Reversal-Layer">View Details</a>
-  <br><br>
+</p>
+
+<p align="center">
   <b>📍 <a href="https://github.com/SANEEN-11/Sustania">EventLoop – Streamlined College Event Management</a></b><br>
   <i>A robust platform built to modernize how colleges manage events. It empowers admins to organize, track, and analyze campus events while offering students a seamless registration and participation experience.</i><br>
   <a href="https://github.com/SANEEN-11/Sustania">View Details</a>
-  <br><br>
+</p>
+
+<p align="center">
   <b>🥗 <a href="https://github.com/SANEEN-11/FoodFit">FoodFit - Responsible Consumption Platform</a></b><br>
   <i>An ML-powered platform to optimize food consumption and reduce waste, built for Hacksus'25 (UN SDG 12).</i><br>
   <a href="https://github.com/SANEEN-11/FoodFit">View Details</a>
@@ -108,7 +104,6 @@
   <a href="https://www.linkedin.com/in/mohamed-saneen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:mohamedsaneenxd@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
 </p>
-
 
 <p align="center">
   ⭐️ From <a href="https://github.com/SANEEN-11">SANEEN-11</a>
