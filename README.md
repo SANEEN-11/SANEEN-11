@@ -83,13 +83,13 @@
 <p align="center">
   <b>🎧 <a href="https://github.com/SANEEN-11/Voice4You">Voice4You – Voice Assistant for Elderly, Blind & Alzheimer's Care</a></b><br>
   <i>An intelligent personal companion that supports voice-based interaction, real-time object detection, and memory assistance — empowering users with greater independence.</i><br>
-  <a href="https://github.com/SANEEN-11/UDA-Gradient-Reversal-Layer">View Details</a>
+  <a href="https://github.com/SANEEN-11/Voice4You">View Details</a>
 </p>
 
 <p align="center">
   <b>📍 <a href="https://github.com/SANEEN-11/EventLoop">EventLoop – Streamlined College Event Management</a></b><br>
   <i>A robust platform built to modernize how colleges manage events. It empowers admins to organize, track, and analyze campus events while offering students a seamless registration and participation experience.</i><br>
-  <a href="https://github.com/SANEEN-11/Sustania">View Details</a>
+  <a href="https://github.com/SANEEN-11/EventLoop">View Details</a>
 </p>
 
 <p align="center">
